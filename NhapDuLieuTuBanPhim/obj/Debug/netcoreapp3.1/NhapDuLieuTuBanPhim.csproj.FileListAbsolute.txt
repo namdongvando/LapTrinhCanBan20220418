@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\bin\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\bin\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\bin\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\bin\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\bin\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\bin\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\obj\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\obj\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\obj\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\obj\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\obj\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\obj\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\NhapDuLieuTuBanPhim\obj\Debug\netcoreapp3.1\NhapDuLieuTuBanPhim.genruntimeconfig.cache

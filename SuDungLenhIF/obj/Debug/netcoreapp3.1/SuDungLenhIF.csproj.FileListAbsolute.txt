@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\bin\Debug\netcoreapp3.1\SuDungLenhIF.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\bin\Debug\netcoreapp3.1\SuDungLenhIF.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\bin\Debug\netcoreapp3.1\SuDungLenhIF.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\bin\Debug\netcoreapp3.1\SuDungLenhIF.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\bin\Debug\netcoreapp3.1\SuDungLenhIF.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\bin\Debug\netcoreapp3.1\SuDungLenhIF.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\obj\Debug\netcoreapp3.1\SuDungLenhIF.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\obj\Debug\netcoreapp3.1\SuDungLenhIF.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\obj\Debug\netcoreapp3.1\SuDungLenhIF.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\obj\Debug\netcoreapp3.1\SuDungLenhIF.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\obj\Debug\netcoreapp3.1\SuDungLenhIF.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\obj\Debug\netcoreapp3.1\SuDungLenhIF.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhIF\obj\Debug\netcoreapp3.1\SuDungLenhIF.genruntimeconfig.cache
