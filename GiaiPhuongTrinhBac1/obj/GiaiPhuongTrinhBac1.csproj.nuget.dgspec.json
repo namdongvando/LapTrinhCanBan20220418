@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj": {}
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj": {
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj",
         "projectName": "GiaiPhuongTrinhBac1",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj",
+        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\GiaiPhuongTrinhBac1.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\GiaiPhuongTrinhBac1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
