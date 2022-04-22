@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\bin\Debug\netcoreapp3.1\VongLapWhile.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\bin\Debug\netcoreapp3.1\VongLapWhile.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\bin\Debug\netcoreapp3.1\VongLapWhile.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\bin\Debug\netcoreapp3.1\VongLapWhile.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\bin\Debug\netcoreapp3.1\VongLapWhile.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\bin\Debug\netcoreapp3.1\VongLapWhile.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.genruntimeconfig.cache

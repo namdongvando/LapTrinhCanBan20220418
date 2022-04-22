@@ -11,11 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungLenhIF", "SuDungLenhI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiaiPhuongTrinhBac1", "GiaiPhuongTrinhBac1\GiaiPhuongTrinhBac1.csproj", "{4D7EF61B-DC7B-4B1E-8D49-B23CA38ECA0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhuongTrinhBac2", "PhuongTrinhBac2\PhuongTrinhBac2.csproj", "{90504C41-80AB-4BAA-93FE-E04E3C1F938A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhuongTrinhBac2", "PhuongTrinhBac2\PhuongTrinhBac2.csproj", "{90504C41-80AB-4BAA-93FE-E04E3C1F938A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThangDiemDanhGia", "ThangDiemDanhGia\ThangDiemDanhGia.csproj", "{AE579161-BD6C-4393-A675-FE581185A6E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThangDiemDanhGia", "ThangDiemDanhGia\ThangDiemDanhGia.csproj", "{AE579161-BD6C-4393-A675-FE581185A6E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhNgayTheoThang", "TinhNgayTheoThang\TinhNgayTheoThang.csproj", "{4B495B5C-980D-496D-B3CD-6AA95AFF4E6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinhNgayTheoThang", "TinhNgayTheoThang\TinhNgayTheoThang.csproj", "{4B495B5C-980D-496D-B3CD-6AA95AFF4E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungLenhLap", "SuDungLenhLap\SuDungLenhLap.csproj", "{3258173A-A7E3-4E45-AB14-F87A0C0ECBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhGiaiThua", "TinhGiaiThua\TinhGiaiThua.csproj", "{C6513CB3-2731-4A95-8F50-EA77AE3DD1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTongToiN", "TinhTongToiN\TinhTongToiN.csproj", "{693B80A4-E9C3-4218-8680-B41F1223350C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangCuuChuong", "BangCuuChuong\BangCuuChuong.csproj", "{C522E158-7EB9-454B-BB15-17AFB50E93BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VongLapWhile", "VongLapWhile\VongLapWhile.csproj", "{AE843704-8F24-4285-904A-8F612517C800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,26 @@ Global
 		{4B495B5C-980D-496D-B3CD-6AA95AFF4E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B495B5C-980D-496D-B3CD-6AA95AFF4E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B495B5C-980D-496D-B3CD-6AA95AFF4E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3258173A-A7E3-4E45-AB14-F87A0C0ECBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3258173A-A7E3-4E45-AB14-F87A0C0ECBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3258173A-A7E3-4E45-AB14-F87A0C0ECBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3258173A-A7E3-4E45-AB14-F87A0C0ECBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6513CB3-2731-4A95-8F50-EA77AE3DD1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6513CB3-2731-4A95-8F50-EA77AE3DD1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6513CB3-2731-4A95-8F50-EA77AE3DD1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6513CB3-2731-4A95-8F50-EA77AE3DD1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693B80A4-E9C3-4218-8680-B41F1223350C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693B80A4-E9C3-4218-8680-B41F1223350C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693B80A4-E9C3-4218-8680-B41F1223350C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693B80A4-E9C3-4218-8680-B41F1223350C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C522E158-7EB9-454B-BB15-17AFB50E93BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C522E158-7EB9-454B-BB15-17AFB50E93BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C522E158-7EB9-454B-BB15-17AFB50E93BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C522E158-7EB9-454B-BB15-17AFB50E93BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE843704-8F24-4285-904A-8F612517C800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE843704-8F24-4285-904A-8F612517C800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE843704-8F24-4285-904A-8F612517C800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE843704-8F24-4285-904A-8F612517C800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

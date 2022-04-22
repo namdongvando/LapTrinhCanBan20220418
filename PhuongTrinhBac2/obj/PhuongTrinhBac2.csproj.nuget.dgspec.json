@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {}
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
         "projectName": "PhuongTrinhBac2",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
+        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\PhuongTrinhBac2.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\PhuongTrinhBac2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",

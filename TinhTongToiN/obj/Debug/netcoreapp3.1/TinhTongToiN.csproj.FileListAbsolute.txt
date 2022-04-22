@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\bin\Debug\netcoreapp3.1\TinhTongToiN.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\bin\Debug\netcoreapp3.1\TinhTongToiN.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\bin\Debug\netcoreapp3.1\TinhTongToiN.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\bin\Debug\netcoreapp3.1\TinhTongToiN.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\bin\Debug\netcoreapp3.1\TinhTongToiN.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\bin\Debug\netcoreapp3.1\TinhTongToiN.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\obj\Debug\netcoreapp3.1\TinhTongToiN.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\obj\Debug\netcoreapp3.1\TinhTongToiN.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\obj\Debug\netcoreapp3.1\TinhTongToiN.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\obj\Debug\netcoreapp3.1\TinhTongToiN.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\obj\Debug\netcoreapp3.1\TinhTongToiN.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\TinhTongToiN\obj\Debug\netcoreapp3.1\TinhTongToiN.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\bin\Debug\netcoreapp3.1\BangCuuChuong.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\bin\Debug\netcoreapp3.1\BangCuuChuong.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\bin\Debug\netcoreapp3.1\BangCuuChuong.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\bin\Debug\netcoreapp3.1\BangCuuChuong.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\bin\Debug\netcoreapp3.1\BangCuuChuong.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\bin\Debug\netcoreapp3.1\BangCuuChuong.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\obj\Debug\netcoreapp3.1\BangCuuChuong.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\obj\Debug\netcoreapp3.1\BangCuuChuong.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\obj\Debug\netcoreapp3.1\BangCuuChuong.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\obj\Debug\netcoreapp3.1\BangCuuChuong.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\obj\Debug\netcoreapp3.1\BangCuuChuong.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\BangCuuChuong\obj\Debug\netcoreapp3.1\BangCuuChuong.genruntimeconfig.cache

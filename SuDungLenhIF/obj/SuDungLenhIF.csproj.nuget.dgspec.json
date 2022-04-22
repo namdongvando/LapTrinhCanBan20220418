@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj": {}
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj": {
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj",
         "projectName": "SuDungLenhIF",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj",
+        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\SuDungLenhIF\\SuDungLenhIF.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\SuDungLenhIF\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\SuDungLenhIF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",

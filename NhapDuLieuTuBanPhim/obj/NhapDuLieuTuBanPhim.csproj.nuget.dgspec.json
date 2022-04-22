@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj": {}
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj": {
+    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj",
+        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj",
         "projectName": "NhapDuLieuTuBanPhim",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj",
+        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\NhapDuLieuTuBanPhim.csproj",
         "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\obj\\",
+        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\NhapDuLieuTuBanPhim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
