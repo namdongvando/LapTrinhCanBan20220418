@@ -10,3 +10,4 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcorea
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.dll
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.pdb
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.genruntimeconfig.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\VongLapWhile\obj\Debug\netcoreapp3.1\VongLapWhile.csprojAssemblyReference.cache

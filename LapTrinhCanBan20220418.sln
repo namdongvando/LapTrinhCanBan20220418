@@ -17,15 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThangDiemDanhGia", "ThangDi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinhNgayTheoThang", "TinhNgayTheoThang\TinhNgayTheoThang.csproj", "{4B495B5C-980D-496D-B3CD-6AA95AFF4E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungLenhLap", "SuDungLenhLap\SuDungLenhLap.csproj", "{3258173A-A7E3-4E45-AB14-F87A0C0ECBD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungLenhLap", "SuDungLenhLap\SuDungLenhLap.csproj", "{3258173A-A7E3-4E45-AB14-F87A0C0ECBD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhGiaiThua", "TinhGiaiThua\TinhGiaiThua.csproj", "{C6513CB3-2731-4A95-8F50-EA77AE3DD1BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinhGiaiThua", "TinhGiaiThua\TinhGiaiThua.csproj", "{C6513CB3-2731-4A95-8F50-EA77AE3DD1BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTongToiN", "TinhTongToiN\TinhTongToiN.csproj", "{693B80A4-E9C3-4218-8680-B41F1223350C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinhTongToiN", "TinhTongToiN\TinhTongToiN.csproj", "{693B80A4-E9C3-4218-8680-B41F1223350C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangCuuChuong", "BangCuuChuong\BangCuuChuong.csproj", "{C522E158-7EB9-454B-BB15-17AFB50E93BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BangCuuChuong", "BangCuuChuong\BangCuuChuong.csproj", "{C522E158-7EB9-454B-BB15-17AFB50E93BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VongLapWhile", "VongLapWhile\VongLapWhile.csproj", "{AE843704-8F24-4285-904A-8F612517C800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VongLapWhile", "VongLapWhile\VongLapWhile.csproj", "{AE843704-8F24-4285-904A-8F612517C800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCLN", "UCLN\UCLN.csproj", "{54282C60-33BA-4F30-A2EC-8958CD711659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungHam", "SuDungHam\SuDungHam.csproj", "{4C955516-95E6-48B0-8920-639C77B37700}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{AE843704-8F24-4285-904A-8F612517C800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE843704-8F24-4285-904A-8F612517C800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE843704-8F24-4285-904A-8F612517C800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54282C60-33BA-4F30-A2EC-8958CD711659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54282C60-33BA-4F30-A2EC-8958CD711659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54282C60-33BA-4F30-A2EC-8958CD711659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54282C60-33BA-4F30-A2EC-8958CD711659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C955516-95E6-48B0-8920-639C77B37700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C955516-95E6-48B0-8920-639C77B37700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C955516-95E6-48B0-8920-639C77B37700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C955516-95E6-48B0-8920-639C77B37700}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

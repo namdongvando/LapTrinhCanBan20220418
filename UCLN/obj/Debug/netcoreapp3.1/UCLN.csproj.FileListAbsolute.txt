@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\bin\Debug\netcoreapp3.1\UCLN.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\bin\Debug\netcoreapp3.1\UCLN.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\bin\Debug\netcoreapp3.1\UCLN.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\bin\Debug\netcoreapp3.1\UCLN.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\bin\Debug\netcoreapp3.1\UCLN.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\bin\Debug\netcoreapp3.1\UCLN.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\obj\Debug\netcoreapp3.1\UCLN.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\obj\Debug\netcoreapp3.1\UCLN.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\obj\Debug\netcoreapp3.1\UCLN.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\obj\Debug\netcoreapp3.1\UCLN.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\obj\Debug\netcoreapp3.1\UCLN.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\UCLN\obj\Debug\netcoreapp3.1\UCLN.genruntimeconfig.cache
