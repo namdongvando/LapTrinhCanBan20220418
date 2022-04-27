@@ -59,7 +59,7 @@ namespace SuDungHam
             //while (j <= a) {
             //    gt1 = gt1 * j;
             //    j++;
-            //}
+            //} 0
             Console.WriteLine("N! = {0}", gt);
         }
 

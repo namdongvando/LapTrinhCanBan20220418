@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\bin\Debug\netcoreapp3.1\SuDungMang.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.genruntimeconfig.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungMang\obj\Debug\netcoreapp3.1\SuDungMang.csprojAssemblyReference.cache

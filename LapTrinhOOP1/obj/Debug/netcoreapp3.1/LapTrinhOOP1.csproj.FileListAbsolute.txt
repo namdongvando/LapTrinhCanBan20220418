@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\bin\Debug\netcoreapp3.1\LapTrinhOOP1.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\bin\Debug\netcoreapp3.1\LapTrinhOOP1.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\bin\Debug\netcoreapp3.1\LapTrinhOOP1.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\bin\Debug\netcoreapp3.1\LapTrinhOOP1.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\bin\Debug\netcoreapp3.1\LapTrinhOOP1.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\bin\Debug\netcoreapp3.1\LapTrinhOOP1.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\obj\Debug\netcoreapp3.1\LapTrinhOOP1.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\obj\Debug\netcoreapp3.1\LapTrinhOOP1.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\obj\Debug\netcoreapp3.1\LapTrinhOOP1.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\obj\Debug\netcoreapp3.1\LapTrinhOOP1.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\obj\Debug\netcoreapp3.1\LapTrinhOOP1.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\obj\Debug\netcoreapp3.1\LapTrinhOOP1.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhOOP1\obj\Debug\netcoreapp3.1\LapTrinhOOP1.genruntimeconfig.cache
