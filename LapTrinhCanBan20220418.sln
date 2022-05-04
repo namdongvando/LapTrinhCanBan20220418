@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UCLN", "UCLN\UCLN.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungHam", "SuDungHam\SuDungHam.csproj", "{4C955516-95E6-48B0-8920-639C77B37700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuDungMang", "SuDungMang\SuDungMang.csproj", "{9B49B369-D40F-45B2-91AC-12D0D3E50A2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungMang", "SuDungMang\SuDungMang.csproj", "{9B49B369-D40F-45B2-91AC-12D0D3E50A2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LapTrinhOOP1", "LapTrinhOOP1\LapTrinhOOP1.csproj", "{98D2F898-D866-4F82-940D-7C5F37A47F3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LapTrinhOOP1", "LapTrinhOOP1\LapTrinhOOP1.csproj", "{98D2F898-D866-4F82-940D-7C5F37A47F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassHinhHoc", "ClassHinhHoc\ClassHinhHoc.csproj", "{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{98D2F898-D866-4F82-940D-7C5F37A47F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98D2F898-D866-4F82-940D-7C5F37A47F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D2F898-D866-4F82-940D-7C5F37A47F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
