@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungMang", "SuDungMang\Su
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LapTrinhOOP1", "LapTrinhOOP1\LapTrinhOOP1.csproj", "{98D2F898-D866-4F82-940D-7C5F37A47F3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassHinhHoc", "ClassHinhHoc\ClassHinhHoc.csproj", "{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassHinhHoc", "ClassHinhHoc\ClassHinhHoc.csproj", "{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyNhanVienWF", "QuanLyNhanVienWF\QuanLyNhanVienWF.csproj", "{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{895FA83E-ECB9-42E1-9BFC-2DBCDED20915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

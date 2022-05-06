@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\bin\Debug\QuanLyNhanVienWF.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\bin\Debug\QuanLyNhanVienWF.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\bin\Debug\QuanLyNhanVienWF.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.Form1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormDangNhap.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormPTB1.resources

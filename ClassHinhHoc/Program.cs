@@ -14,11 +14,33 @@ namespace ClassHinhHoc
             //SuDungHinhTron();
             //SuDungNhanVien();
             NhapDSNhanVien();
+            XuatDanhSachNhanVien();
+        }
+
+        private static void XuatDanhSachNhanVien()
+        {
+            NhanVien nv = new NhanVien();
+            var dsNhanVien = nv.GetAll();
+            foreach (var item in dsNhanVien)
+            {
+                Console.WriteLine(item.HoTen);
+            }
+
         }
 
         private static void NhapDSNhanVien()
         {
-            throw new NotImplementedException();
+            NhanVien nv = new NhanVien();
+            Console.WriteLine("Nhập Ma");
+            nv.MaNV = Console.ReadLine();
+            Console.WriteLine("Nhập Tên");
+            nv.HoTen = Console.ReadLine();
+            Console.WriteLine("Nhập SDT");
+            nv.SDT = Console.ReadLine();
+            Console.WriteLine("Nhập Ngày Sinh");
+            nv.NgaySinh = DateTime.Parse(Console.ReadLine());
+            // thêm nhân vien vào danh sách
+            nv.Insert(nv);
         }
 
         private static void SuDungNhanVien()
