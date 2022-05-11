@@ -10,3 +10,16 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhCanBan20220418\PhuongTr
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.genruntimeconfig.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.genruntimeconfig.cache

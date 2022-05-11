@@ -10,3 +10,4 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhLap\obj\Debug\netcore
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhLap\obj\Debug\netcoreapp3.1\SuDungLenhLap.dll
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhLap\obj\Debug\netcoreapp3.1\SuDungLenhLap.pdb
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhLap\obj\Debug\netcoreapp3.1\SuDungLenhLap.genruntimeconfig.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLenhLap\obj\Debug\netcoreapp3.1\SuDungLenhLap.csprojAssemblyReference.cache

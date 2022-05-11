@@ -49,5 +49,17 @@ namespace QuanLyNhanVienWF
             Form f = new FormPTB1();
             f.ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form f = new FormPTB2();
+            f.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form f = new FormDongHo();
+            f.ShowDialog();     
+        }
     }
 }
