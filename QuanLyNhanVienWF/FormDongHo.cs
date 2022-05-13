@@ -29,6 +29,7 @@ namespace QuanLyNhanVienWF
         {
             timer1.Start();
             timer2.Start();
+            timer3.Start();
         }
 
         private void timer2_Tick(object sender, EventArgs e)
@@ -41,8 +42,12 @@ namespace QuanLyNhanVienWF
             // cận dưới
             if (positionY + pictureBox1.Height + 50 >= this.Height)
             {
+               
                 ThoiGian = 1;
                 RoiXuong = -1;
+                timer2.Stop();
+                return;
+
             }
             // cận trên
             if (positionY-25 <= 0)
@@ -60,7 +65,19 @@ namespace QuanLyNhanVienWF
 
         private void button1_Click(object sender, EventArgs e)
         {
+            timer2.Start();
+            RoiXuong = -1;
+        }
 
+        private void timer3_Tick(object sender, EventArgs e)
+        {
+            int positionX = pictureBox2.Location.X;
+            int positionY = pictureBox2.Location.Y;
+            positionX= positionX - 10;
+            if (positionX <= 0) {
+                positionX = Width;
+            }
+            pictureBox2.Location = new Point(positionX,positionY);
         }
     }
 }

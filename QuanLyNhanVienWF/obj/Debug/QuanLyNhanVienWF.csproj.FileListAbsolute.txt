@@ -12,3 +12,4 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\Quan
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormPTB1.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormPTB2.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormDongHo.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormNhanVien.resources

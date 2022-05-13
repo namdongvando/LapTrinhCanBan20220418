@@ -64,6 +64,12 @@
     <Compile Include="FormDongHo.Designer.cs">
       <DependentUpon>FormDongHo.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhanVien.Designer.cs">
+      <DependentUpon>FormNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPTB1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +82,8 @@
     <Compile Include="FormPTB2.Designer.cs">
       <DependentUpon>FormPTB2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\IModelCRUD.cs" />
+    <Compile Include="Model\NhanVien.cs" />
     <Compile Include="Model\PhuongTrinh.cs" />
     <Compile Include="Model\PTB2.cs" />
     <Compile Include="Program.cs" />
@@ -88,6 +96,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormDongHo.resx">
       <DependentUpon>FormDongHo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhanVien.resx">
+      <DependentUpon>FormNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormPTB1.resx">
       <DependentUpon>FormPTB1.cs</DependentUpon>
