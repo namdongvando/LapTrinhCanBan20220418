@@ -10,14 +10,14 @@ namespace QuanLyNhanVienWF.Model
     {
         public string MaNV { get; set; }
         public string TenNV { get; set; }
-        public string NgaySinh { get; set; }
+        public DateTime NgaySinh { get; set; }
         public string DiaChi { get; set; }
         public string SDT { get; set; }
         public string Email { get; set; }
 
         public static List<NhanVien> DanhSachNhanVien { get; set; }
 
-        public NhanVien(string maNV, string tenNV, string ngaySinh, string diaChi, string sDT, string email)
+        public NhanVien(string maNV, string tenNV, DateTime ngaySinh, string diaChi, string sDT, string email)
         {
             MaNV = maNV;
             TenNV = tenNV;

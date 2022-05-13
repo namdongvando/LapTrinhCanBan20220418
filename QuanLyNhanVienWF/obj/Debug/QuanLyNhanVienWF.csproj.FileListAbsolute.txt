@@ -13,3 +13,6 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\Quan
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormPTB2.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormDongHo.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.FormNhanVien.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\QuanLyNhanVienWF\obj\Debug\QuanLyNhanVienWF.csproj.CopyComplete
