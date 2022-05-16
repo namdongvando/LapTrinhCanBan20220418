@@ -16,6 +16,7 @@ namespace QuanLyNhanVienWF.Model
         public string Email { get; set; }
 
         public static List<NhanVien> DanhSachNhanVien { get; set; }
+        public static NhanVien NhanVienSua { get; internal set; }
 
         public NhanVien(string maNV, string tenNV, DateTime ngaySinh, string diaChi, string sDT, string email)
         {
