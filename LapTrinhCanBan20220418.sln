@@ -44,6 +44,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		linkDoc.txt = linkDoc.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConnectDB", "AppConnectDB\AppConnectDB.csproj", "{74E44DC2-F6FC-44A9-80F9-DB517FA87A28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -122,6 +124,10 @@ Global
 		{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A4FBDA1-1B69-49C8-90BC-B5BEFECFDBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E44DC2-F6FC-44A9-80F9-DB517FA87A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E44DC2-F6FC-44A9-80F9-DB517FA87A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E44DC2-F6FC-44A9-80F9-DB517FA87A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E44DC2-F6FC-44A9-80F9-DB517FA87A28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

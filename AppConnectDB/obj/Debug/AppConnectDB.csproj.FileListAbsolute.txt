@@ -1,0 +1,11 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.Form1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\bin\Debug\AppConnectDB.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\bin\Debug\AppConnectDB.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\bin\Debug\AppConnectDB.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\AppConnectDB\obj\Debug\AppConnectDB.FormDanhMucSanPham.resources

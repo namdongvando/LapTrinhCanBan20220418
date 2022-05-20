@@ -1,0 +1,10 @@
+  string connectionString = "Data Source=PC26;Initial Catalog=Northwind;Integrated Security=True";
+            string sql = "SELECT * FROM Products";
+            SqlConnection connection = new SqlConnection(connectionString);
+            SqlDataAdapter dataadapter = new SqlDataAdapter(sql, connection);
+            DataSet ds = new DataSet();
+            connection.Open();
+            dataadapter.Fill(ds, "abc");
+            connection.Close();
+            dataGridView1.DataSource = ds;
+            dataGridView1.DataMember = "abc";
