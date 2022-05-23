@@ -99,5 +99,27 @@ where CategoryID = {2}", ten, mota, ma);
             ShowDataBySql("SELECT * FROM Categories");
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            // xóa theo mã
+            // không có mã thi không có làm
+            if (txtMa.Text == "")
+                return;
+            // có mã 
+            string ma = txtMa.Text;
+            string sql = string.Format(@"delete from Categories where CategoryID= {0}", ma);
+
+            string connectionString = ConfigurationManager
+                                        .ConnectionStrings["NorthwindConnectionString"].ToString();
+            SqlConnection connection = new SqlConnection(connectionString);
+            connection.Open();
+            SqlCommand cmd = new SqlCommand(sql, connection);
+            cmd.ExecuteNonQuery();
+            connection.Close();
+            // 
+            ShowDataBySql("SELECT * FROM Categories");
+
+        }
     }
 }
